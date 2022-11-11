@@ -130,3 +130,36 @@
 2022-11-10 15:05:28,207 - logger_File -INFO - user clicked on account button
 2022-11-10 15:05:28,627 - logger_File -INFO - user entered Harrisand phone number9162152555
 2022-11-10 15:05:28,716 - logger_File -INFO - user clicked on update button
+2022-11-10 22:33:41,923 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 22:33:42,758 - logger_File -INFO - User clicked on signIn button
+2022-11-10 22:33:43,104 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-10 22:33:43,207 - logger_File -INFO - user clicked on login button
+2022-11-10 22:33:43,236 - logger_File -INFO - user logged in into the account
+2022-11-10 22:33:45,528 - logger_File -INFO - user clicked on account button
+2022-11-10 22:33:45,989 - logger_File -INFO - user entered Harrisand phone number9162152555
+2022-11-10 22:33:46,972 - logger_File -INFO - user clicked on update button
+2022-11-10 22:33:47,004 - logger_File -INFO - alert is displayed
+2022-11-10 22:37:59,619 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 22:38:00,371 - logger_File -INFO - User clicked on signIn button
+2022-11-10 22:38:00,864 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-10 22:38:00,975 - logger_File -INFO - user clicked on login button
+2022-11-10 22:38:01,007 - logger_File -INFO - user logged in into the account
+2022-11-10 22:38:01,655 - logger_File -INFO - user clicked on account button
+2022-11-10 22:38:02,072 - logger_File -INFO - user entered Harrisand phone number9162152555
+2022-11-10 22:38:02,294 - logger_File -INFO - user clicked on update button
+2022-11-10 22:38:55,322 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 22:38:55,540 - logger_File -INFO - User clicked on signIn button
+2022-11-10 22:38:55,898 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-10 22:38:56,019 - logger_File -INFO - user clicked on login button
+2022-11-10 22:38:56,048 - logger_File -INFO - user logged in into the account
+2022-11-10 22:38:57,135 - logger_File -INFO - user clicked on account button
+2022-11-10 22:38:57,524 - logger_File -INFO - user entered Harrisand phone number9162152556
+2022-11-10 22:38:57,643 - logger_File -INFO - user clicked on update button
+2022-11-11 15:32:32,074 - logger_File -INFO - React Appis equal toReact App
+2022-11-11 15:32:32,388 - logger_File -INFO - User clicked on signIn button
+2022-11-11 15:32:32,757 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-11 15:32:32,857 - logger_File -INFO - user clicked on login button
+2022-11-11 15:32:32,886 - logger_File -INFO - user logged in into the account
+2022-11-11 15:32:34,073 - logger_File -INFO - user clicked on account button
+2022-11-11 15:32:34,541 - logger_File -INFO - user entered updated information
+2022-11-11 15:32:34,692 - logger_File -INFO - user clicked on change password button

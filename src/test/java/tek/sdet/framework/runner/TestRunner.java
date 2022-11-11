@@ -7,7 +7,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@test3",
+        tags = "@test4",
         features = ("classpath:features"),
         glue="tek.sdet.framework",
         dryRun = false,

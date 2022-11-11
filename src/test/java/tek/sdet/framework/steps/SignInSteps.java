@@ -65,7 +65,7 @@ public class SignInSteps extends CommonUtility{
 		sendText(factory.signInPage().emailInput,signUpData.get(0).get("email"));
 		sendText(factory.signInPage().passwordInput,signUpData.get(0).get("password"));
 		sendText(factory.signInPage().confirmPasswordInput,signUpData.get(0).get("confirmPassword"));
-		logger.info("\"user entered required information into sign up form\"");
+		logger.info("user entered required information into sign up form");
 	}
 	
 	@And("User click on signUp button")

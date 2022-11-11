@@ -25,7 +25,20 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//div[@class='Toastify__toast-body']")
 	public WebElement alert;
 	
+	@FindBy(id = "previousPasswordInput")
+	public WebElement perviousPasswordInput;
 	
+	@FindBy(id = "newPasswordInput")
+	public WebElement newPasswordInput;
+	
+	@FindBy(id = "confirmPasswordInput")
+	public WebElement confirmPasswordInput;
+	
+	@FindBy(id = "credentialsSubmitBtn")
+	public WebElement credentialsSubmitBtn;
+	
+	@FindBy(xpath = "//div[@class='Toastify']")
+	public WebElement alserPC;
 	
 	
 	
