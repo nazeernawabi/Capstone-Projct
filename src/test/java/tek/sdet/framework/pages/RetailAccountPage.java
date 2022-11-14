@@ -40,6 +40,49 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//div[@class='Toastify']")
 	public WebElement alserPC;
 	
+	@FindBy(xpath = "//*[contains(text(), 'payment')]")
+	public WebElement AddAPaymentMethod;
+	
+	@FindBy(id = "cardNumberInput")
+	public WebElement cardNumberInput;
+	
+	@FindBy(id = "nameOnCardInput")
+	public WebElement nameOnCardInput;
+	
+	@FindBy(id = "expirationMonthInput")
+	public WebElement expirationMonthInput;
+	
+	@FindBy(id = "expirationYearInput")
+	public WebElement expirationYearInput;
+	
+	@FindBy(id = "securityCodeInput")
+	public WebElement securityCodeInput;
+	
+	@FindBy(id = "paymentSubmitBtn")
+	public WebElement paymentSubmitBtn;
+	
+	@FindBy(xpath = "//img[@class='w-full undefined']")
+	public WebElement cardPicture;
+	
+	@FindBy(xpath = "//button[text()='Edit']")
+	public WebElement Edit;
+	
+	@FindBy(xpath = "//p[text()='Master Card']")
+	public WebElement MasterCard;
+	
+	@FindBy(xpath = "//button[text()='remove']")
+	public WebElement removeBtn;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 }

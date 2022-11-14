@@ -163,3 +163,95 @@
 2022-11-11 15:32:34,073 [main] INFO logger_File - user clicked on account button
 2022-11-11 15:32:34,541 [main] INFO logger_File - user entered updated information
 2022-11-11 15:32:34,692 [main] INFO logger_File - user clicked on change password button
+2022-11-13 11:55:18,501 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 11:55:18,854 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 11:55:19,214 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 11:55:19,306 [main] INFO logger_File - user clicked on login button
+2022-11-13 11:55:19,332 [main] INFO logger_File - user logged in into the account
+2022-11-13 11:59:04,880 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 11:59:05,478 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 11:59:05,810 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 11:59:05,918 [main] INFO logger_File - user clicked on login button
+2022-11-13 11:59:05,941 [main] INFO logger_File - user logged in into the account
+2022-11-13 12:00:49,772 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 12:00:49,937 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 12:00:50,259 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 12:00:50,358 [main] INFO logger_File - user clicked on login button
+2022-11-13 12:00:50,383 [main] INFO logger_File - user logged in into the account
+2022-11-13 12:04:14,516 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 12:04:14,691 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 12:04:14,999 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 12:04:15,095 [main] INFO logger_File - user clicked on login button
+2022-11-13 12:04:15,120 [main] INFO logger_File - user logged in into the account
+2022-11-13 12:08:24,502 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 12:08:24,629 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 12:08:24,928 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 12:08:25,020 [main] INFO logger_File - user clicked on login button
+2022-11-13 12:08:25,046 [main] INFO logger_File - user logged in into the account
+2022-11-13 13:09:02,369 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 13:09:02,699 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 13:09:03,867 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 13:09:03,965 [main] INFO logger_File - user clicked on login button
+2022-11-13 13:09:03,991 [main] INFO logger_File - user logged in into the account
+2022-11-13 13:13:14,804 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 13:13:15,119 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 13:13:15,426 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 13:13:15,523 [main] INFO logger_File - user clicked on login button
+2022-11-13 13:13:15,555 [main] INFO logger_File - user logged in into the account
+2022-11-13 13:13:17,593 [main] INFO logger_File - user clicked on account button
+2022-11-13 13:13:18,069 [main] INFO logger_File - user entered updated information
+2022-11-13 13:13:18,160 [main] INFO logger_File - user clicked on change password button
+2022-11-13 13:13:18,160 [main] INFO logger_File - alert displayed
+2022-11-13 14:12:42,807 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 14:12:44,482 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 14:12:46,706 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 14:12:46,960 [main] INFO logger_File - user clicked on login button
+2022-11-13 14:12:46,985 [main] INFO logger_File - user logged in into the account
+2022-11-13 14:12:48,242 [main] INFO logger_File - user clicked on account button
+2022-11-13 16:12:52,337 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 16:12:52,762 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 16:12:53,483 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordNazeerjan1234@
+2022-11-13 16:12:53,575 [main] INFO logger_File - user clicked on login button
+2022-11-13 16:12:53,599 [main] INFO logger_File - user logged in into the account
+2022-11-13 16:21:34,133 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 16:21:34,309 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 16:21:34,632 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 16:21:34,733 [main] INFO logger_File - user clicked on login button
+2022-11-13 16:21:34,759 [main] INFO logger_File - user logged in into the account
+2022-11-13 16:21:35,670 [main] INFO logger_File - user clicked on account button
+2022-11-13 16:21:35,818 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-11-13 16:21:36,378 [main] INFO logger_File - user entered credit card information
+2022-11-13 16:21:36,490 [main] INFO logger_File - user cliked on add card button
+2022-11-13 16:21:36,521 [main] INFO logger_File - card picture is present
+2022-11-13 22:29:40,487 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 22:29:41,341 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 22:29:41,710 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 22:29:41,800 [main] INFO logger_File - user clicked on login button
+2022-11-13 22:29:41,825 [main] INFO logger_File - user logged in into the account
+2022-11-13 22:29:43,155 [main] INFO logger_File - user clicked on account button
+2022-11-13 22:39:45,107 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 22:39:45,255 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 22:39:45,645 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 22:39:45,737 [main] INFO logger_File - user clicked on login button
+2022-11-13 22:39:45,759 [main] INFO logger_File - user logged in into the account
+2022-11-13 22:39:46,326 [main] INFO logger_File - user clicked on account button
+2022-11-13 22:39:46,922 [main] INFO logger_File - user clicked on Edit button
+2022-11-13 22:39:47,740 [main] INFO logger_File - user entered card information
+2022-11-13 22:42:41,678 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 22:42:41,868 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 22:42:42,165 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 22:42:42,253 [main] INFO logger_File - user clicked on login button
+2022-11-13 22:42:42,283 [main] INFO logger_File - user logged in into the account
+2022-11-13 22:42:44,227 [main] INFO logger_File - user clicked on account button
+2022-11-13 22:42:44,468 [main] INFO logger_File - user clicked on Edit button
+2022-11-13 22:42:44,997 [main] INFO logger_File - user entered card information
+2022-11-13 22:42:45,081 [main] INFO logger_File - user clicked on update your card button
+2022-11-13 22:42:45,082 [main] INFO logger_File - alert displayed
+2022-11-13 23:32:49,963 [main] INFO logger_File - React Appis equal toReact App
+2022-11-13 23:32:50,761 [main] INFO logger_File - User clicked on signIn button
+2022-11-13 23:32:51,170 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-13 23:32:51,257 [main] INFO logger_File - user clicked on login button
+2022-11-13 23:32:51,279 [main] INFO logger_File - user logged in into the account
+2022-11-13 23:32:52,119 [main] INFO logger_File - user clicked on account button
+2022-11-13 23:32:52,339 [main] INFO logger_File - user clicked on remove button
+2022-11-13 23:32:52,354 [main] INFO logger_File - user removed the card
