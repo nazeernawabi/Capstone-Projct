@@ -73,14 +73,41 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//button[text()='remove']")
 	public WebElement removeBtn;
 	
+	@FindBy(xpath = "//p[text()='Add Address']")
+	public WebElement addAddress;
 	
+	@FindBy(id = "countryDropdown")
+	public WebElement countryDropdown;
 	
+	@FindBy(id = "fullNameInput")
+	public WebElement fullNameInput;
 	
+	@FindBy(id = "streetInput")
+	public WebElement streetInput;
 	
+	@FindBy(id = "apartmentInput")
+	public WebElement apartmentInput;
 	
+	@FindBy(id = "cityInput")
+	public WebElement cityInput;
 	
+	@FindBy(name = "state")
+	public WebElement stateInput;
 	
+	@FindBy(id = "zipCodeInput")
+	public WebElement zipCodeInput;
 	
+	@FindBy(id = "addressBtn")
+	public WebElement addressBtn;
+	
+	@FindBy(xpath = "//p[text()='dfdfd']")
+	public WebElement addedAddress;
+	
+	@FindBy(xpath = "//button[@class='account__address-btn']")
+	public WebElement addEditBtn;
+	
+	@FindBy(xpath = "//button[text()='Remove']")
+	public WebElement removeAddress;
 	
 	
 	

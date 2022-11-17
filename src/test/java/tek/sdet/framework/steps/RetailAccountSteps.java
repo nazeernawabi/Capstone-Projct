@@ -6,6 +6,7 @@ import java.util.Map;
 import org.junit.Assert;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
@@ -17,6 +18,7 @@ import tek.sdet.framework.utilities.CommonUtility;
 public class RetailAccountSteps extends CommonUtility {
 
 	private POMFactory factory = new POMFactory();
+	
 
 	@When("User click on Account option")
 	public void userClickOnAccountOption() {
@@ -95,7 +97,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() {
-		click(factory.accountPage().AmericanExpress);
+		click(factory.accountPage().MasterCard);
 		click(factory.accountPage().Edit);
 		logger.info("user clicked on Edit button");
 	}
@@ -129,6 +131,60 @@ public class RetailAccountSteps extends CommonUtility {
 	   Assert.assertTrue(isElementDisplayed(factory.accountPage().MasterCard));
 	   logger.info("user removed the card");
 	}
+	
+	@When("User click on Add address option")
+	public void userClickOnAddAddressOption() {
+	  click(factory.accountPage().addAddress);
+	  logger.info("user clicked on add address option");
+	}
+	@When("User fill new address form with below information")
+	public void userFillNewAddressFormWithBelowInformation(DataTable data) {
+	  List<Map<String,String>> address = data.asMaps(String.class,String.class);
+	  
+	  selectByValue(factory.accountPage().countryDropdown,"United States");
+	  sendText(factory.accountPage().fullNameInput,address.get(0).get("fullName"));
+	  sendText(factory.accountPage().phoneNumberInput,address.get(0).get("phoneNumber"));
+	  sendText(factory.accountPage().streetInput,address.get(0).get("streetAddress"));
+	  sendText(factory.accountPage().apartmentInput,address.get(0).get("apt"));
+	  sendText(factory.accountPage().cityInput,address.get(0).get("city"));
+	  selectByValue(factory.accountPage().stateInput,"California");
+	  sendText(factory.accountPage().zipCodeInput,address.get(0).get("zipCode"));
+	  logger.info("user filled in address information");
+	}
+	@When("User click Add Your Address button")
+	public void userClickAddYourAddressButton() {
+	    click(factory.accountPage().addressBtn);
+	    logger.info("user clicked on address button");
+	    
+	}
+	
+	@When("User click on edit address option")
+	public void userClickOnEditAddressOption() {
+	   click(factory.accountPage().addEditBtn);
+	   logger.info("user clicked on edit address option");
+	}
+	
+	@When("User click on update Address button")
+	public void userClickOnUpdateAddressButton() {
+	  click(factory.accountPage().addressBtn);
+	  logger.info("user clicked on update address button");
+	}
+
+	
+	@When("User click on remove option of address section")
+	public void userClickOnRemoveOptionOfAddressSection() {
+	   click(factory.accountPage().removeAddress);
+	   logger.info("user clicked on remove button of the address section");
+	}
+	
+	@Then("Address details should be removed")
+	public void addressDetailsShouldBeRemoved() {
+	  Assert.assertFalse(isElementDisplayed(factory.accountPage().removeAddress));
+	  logger.info("address details are removed");
+	}
+
+	
+	
 	
 	
 	

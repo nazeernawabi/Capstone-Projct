@@ -37,7 +37,35 @@ Feature: Retail Account feature
     And User click on Update Your Card button
     Then A message should be displayed 'Payment Method updated Successfully'
 
-  @test4
   Scenario: Verify user can remove Debit
     And User click on remove option of card section
     Then Payment details should be removed
+
+  Scenario: Verify user can add an Address
+    And User click on Add address option
+    And User fill new address form with below information
+      | country       | fullName | phoneNumber | streetAddress     | apt | city      | state | zipCode |
+      | United States | Jamie    |  9162152544 | 1178 Yellow court |  10 | Elk Grove | CA    |   95666 |
+    And User click Add Your Address button
+    Then A message should be displayed 'Address Added Successfully'
+
+  
+  Scenario: Verify user can edit an Address added on account
+    And User click on edit address option
+    And User fill new address form with below information
+      | country       | fullName | phoneNumber | streetAddress     | apt | city      | state | zipCode |
+      | United States | Jamie    |  9162152544 | 1188 Orange court |  10 | Elk Grove | CA    |   95666 |
+    And User click on update Address button
+    Then a message should be displayed 'Address Updated Successfully'
+    
+   
+    Scenario: Verify user can remove Address from Account
+    And User click on remove option of address section
+    Then Address details should be removed
+    
+    
+    
+    
+    
+    
+    

@@ -255,3 +255,183 @@
 2022-11-13 23:32:52,119 [main] INFO logger_File - user clicked on account button
 2022-11-13 23:32:52,339 [main] INFO logger_File - user clicked on remove button
 2022-11-13 23:32:52,354 [main] INFO logger_File - user removed the card
+2022-11-14 14:29:53,468 [main] INFO logger_File - React Appis equal toReact App
+2022-11-14 14:29:53,826 [main] INFO logger_File - User clicked on signIn button
+2022-11-14 14:29:54,099 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-14 14:29:54,189 [main] INFO logger_File - user clicked on login button
+2022-11-14 14:29:54,213 [main] INFO logger_File - user logged in into the account
+2022-11-14 14:29:56,530 [main] INFO logger_File - user clicked on account button
+2022-11-14 14:29:57,247 [main] INFO logger_File - user clicked on add address option
+2022-11-15 10:00:13,718 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 10:00:14,039 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 10:00:14,340 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 10:00:14,431 [main] INFO logger_File - user clicked on login button
+2022-11-15 10:00:14,465 [main] INFO logger_File - user logged in into the account
+2022-11-15 10:00:16,243 [main] INFO logger_File - user clicked on account button
+2022-11-15 10:00:16,510 [main] INFO logger_File - user clicked on add address option
+2022-11-15 10:17:57,738 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 10:17:58,229 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 10:17:58,535 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 10:17:58,621 [main] INFO logger_File - user clicked on login button
+2022-11-15 10:17:58,648 [main] INFO logger_File - user logged in into the account
+2022-11-15 10:18:01,491 [main] INFO logger_File - user clicked on account button
+2022-11-15 10:18:01,639 [main] INFO logger_File - user clicked on add address option
+2022-11-15 10:31:07,107 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 10:31:08,032 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 10:31:08,538 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 10:31:08,623 [main] INFO logger_File - user clicked on login button
+2022-11-15 10:31:08,647 [main] INFO logger_File - user logged in into the account
+2022-11-15 10:31:10,087 [main] INFO logger_File - user clicked on account button
+2022-11-15 10:31:10,226 [main] INFO logger_File - user clicked on add address option
+2022-11-15 10:37:24,398 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 10:37:25,346 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 10:37:25,983 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 10:37:26,077 [main] INFO logger_File - user clicked on login button
+2022-11-15 10:37:26,102 [main] INFO logger_File - user logged in into the account
+2022-11-15 10:37:27,753 [main] INFO logger_File - user clicked on account button
+2022-11-15 10:37:27,880 [main] INFO logger_File - user clicked on add address option
+2022-11-15 11:29:07,478 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 11:29:08,123 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 11:29:08,661 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 11:29:08,841 [main] INFO logger_File - user clicked on login button
+2022-11-15 11:29:08,864 [main] INFO logger_File - user logged in into the account
+2022-11-15 11:29:10,838 [main] INFO logger_File - user clicked on account button
+2022-11-15 11:29:11,130 [main] INFO logger_File - user clicked on add address option
+2022-11-15 11:29:12,173 [main] INFO logger_File - user filled in address information
+2022-11-15 11:31:35,100 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 11:31:35,294 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 11:31:35,590 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 11:31:35,683 [main] INFO logger_File - user clicked on login button
+2022-11-15 11:31:35,724 [main] INFO logger_File - user logged in into the account
+2022-11-15 11:31:36,427 [main] INFO logger_File - user clicked on account button
+2022-11-15 11:31:36,626 [main] INFO logger_File - user clicked on add address option
+2022-11-15 11:31:37,530 [main] INFO logger_File - user filled in address information
+2022-11-15 11:57:17,612 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 11:57:17,783 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 11:57:18,080 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 11:57:18,170 [main] INFO logger_File - user clicked on login button
+2022-11-15 11:57:18,198 [main] INFO logger_File - user logged in into the account
+2022-11-15 11:57:19,191 [main] INFO logger_File - user clicked on account button
+2022-11-15 11:57:19,351 [main] INFO logger_File - user clicked on add address option
+2022-11-15 11:57:20,439 [main] INFO logger_File - user filled in address information
+2022-11-15 12:05:30,651 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 12:05:31,114 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 12:05:31,461 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 12:05:31,551 [main] INFO logger_File - user clicked on login button
+2022-11-15 12:05:31,581 [main] INFO logger_File - user logged in into the account
+2022-11-15 12:05:32,279 [main] INFO logger_File - user clicked on account button
+2022-11-15 12:05:32,588 [main] INFO logger_File - user clicked on add address option
+2022-11-15 12:05:34,243 [main] INFO logger_File - user filled in address information
+2022-11-15 12:05:35,370 [main] INFO logger_File - user clicked on address button
+2022-11-15 12:05:35,373 [main] INFO logger_File - alert displayed
+2022-11-15 12:41:17,075 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 12:41:18,219 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 12:41:18,884 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 12:41:18,986 [main] INFO logger_File - user clicked on login button
+2022-11-15 12:41:19,009 [main] INFO logger_File - user logged in into the account
+2022-11-15 12:41:20,402 [main] INFO logger_File - user clicked on account button
+2022-11-15 12:41:20,525 [main] INFO logger_File - user clicked on add address option
+2022-11-15 12:41:21,974 [main] INFO logger_File - user filled in address information
+2022-11-15 12:41:22,204 [main] INFO logger_File - user clicked on address button
+2022-11-15 12:41:22,231 [main] INFO logger_File - alert displayed
+2022-11-15 14:19:04,167 [main] INFO logger_File - React Appis equal toReact App
+2022-11-15 14:19:05,063 [main] INFO logger_File - User clicked on signIn button
+2022-11-15 14:19:06,595 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-15 14:19:06,717 [main] INFO logger_File - user clicked on login button
+2022-11-15 14:19:06,742 [main] INFO logger_File - user logged in into the account
+2022-11-15 14:19:08,182 [main] INFO logger_File - user clicked on account button
+2022-11-15 14:19:09,812 [main] INFO logger_File - user clicked on add address option
+2022-11-15 14:19:11,796 [main] INFO logger_File - user filled in address information
+2022-11-15 14:19:12,886 [main] INFO logger_File - user clicked on address button
+2022-11-15 14:19:12,895 [main] INFO logger_File - alert displayed
+2022-11-16 21:02:12,010 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 21:02:12,850 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 21:02:14,039 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 21:02:14,244 [main] INFO logger_File - user clicked on login button
+2022-11-16 21:02:14,280 [main] INFO logger_File - user logged in into the account
+2022-11-16 21:02:21,066 [main] INFO logger_File - user clicked on account button
+2022-11-16 21:02:21,379 [main] INFO logger_File - user clicked on edit address option
+2022-11-16 21:02:22,643 [main] INFO logger_File - user filled in address information
+2022-11-16 21:02:22,740 [main] INFO logger_File - user clicked on update address button
+2022-11-16 21:02:22,772 [main] INFO logger_File - card picture is present
+2022-11-16 21:14:08,491 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 21:14:09,239 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 21:14:09,672 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 21:14:09,769 [main] INFO logger_File - user clicked on login button
+2022-11-16 21:14:09,792 [main] INFO logger_File - user logged in into the account
+2022-11-16 21:14:10,893 [main] INFO logger_File - user clicked on account button
+2022-11-16 21:14:11,393 [main] INFO logger_File - user clicked on edit address option
+2022-11-16 21:14:12,526 [main] INFO logger_File - user filled in address information
+2022-11-16 21:14:12,620 [main] INFO logger_File - user clicked on update address button
+2022-11-16 21:14:12,651 [main] INFO logger_File - card picture is present
+2022-11-16 21:30:12,523 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 21:30:13,284 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 21:30:13,797 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 21:30:13,888 [main] INFO logger_File - user clicked on login button
+2022-11-16 21:30:13,912 [main] INFO logger_File - user logged in into the account
+2022-11-16 21:30:15,209 [main] INFO logger_File - user clicked on account button
+2022-11-16 21:30:15,995 [main] INFO logger_File - user clicked on remove button of the address section
+2022-11-16 21:34:35,355 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 21:34:35,488 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 21:34:35,767 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 21:34:35,862 [main] INFO logger_File - user clicked on login button
+2022-11-16 21:34:35,885 [main] INFO logger_File - user logged in into the account
+2022-11-16 21:34:36,407 [main] INFO logger_File - user clicked on account button
+2022-11-16 21:55:25,439 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 21:55:26,413 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 21:55:26,990 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 21:55:27,079 [main] INFO logger_File - user clicked on login button
+2022-11-16 21:55:27,102 [main] INFO logger_File - user logged in into the account
+2022-11-16 21:55:28,217 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:01:43,421 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:01:43,570 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:01:43,862 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:01:43,960 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:01:43,989 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:01:45,919 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:18:28,728 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:18:29,300 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:18:30,562 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:18:30,872 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:18:30,939 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:18:32,182 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:32:25,003 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:32:25,631 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:32:25,942 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:32:26,041 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:32:26,069 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:32:27,958 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:32:29,023 [main] INFO logger_File - user clicked on remove button of the address section
+2022-11-16 22:34:01,748 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:34:01,882 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:34:02,165 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:34:02,264 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:34:02,290 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:34:03,349 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:45:54,435 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:45:54,987 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:45:55,710 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:45:55,835 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:45:55,857 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:45:56,569 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:45:56,940 [main] INFO logger_File - user clicked on remove button of the address section
+2022-11-16 22:45:56,962 [main] INFO logger_File - address details are removed
+2022-11-16 22:47:17,691 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:47:17,835 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:47:18,126 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:47:18,215 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:47:18,240 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:47:19,085 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:50:55,643 [main] INFO logger_File - React Appis equal toReact App
+2022-11-16 22:50:55,808 [main] INFO logger_File - User clicked on signIn button
+2022-11-16 22:50:56,112 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-11-16 22:50:56,213 [main] INFO logger_File - user clicked on login button
+2022-11-16 22:50:56,239 [main] INFO logger_File - user logged in into the account
+2022-11-16 22:50:57,005 [main] INFO logger_File - user clicked on account button
+2022-11-16 22:50:57,139 [main] INFO logger_File - user clicked on remove button of the address section
+2022-11-17 11:18:06,799 [main] INFO logger_File - React Appis equal toReact App
+2022-11-17 11:58:15,011 [main] INFO logger_File - React Appis equal toReact App
+2022-11-17 11:58:15,940 [main] INFO logger_File - user clicked on All section button
+2022-11-17 12:06:12,973 [main] INFO logger_File - React Appis equal toReact App
+2022-11-17 12:06:13,134 [main] INFO logger_File - user clicked on All section button
+2022-11-17 12:06:13,339 [main] INFO logger_File - all department options are available
