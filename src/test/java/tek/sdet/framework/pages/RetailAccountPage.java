@@ -37,8 +37,9 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(id = "credentialsSubmitBtn")
 	public WebElement credentialsSubmitBtn;
 	
-	@FindBy(xpath = "//div[@class='Toastify']")
+	@FindBy(xpath = "//div[text()='Password Updated Successfully']")
 	public WebElement alserPC;
+	
 	
 	@FindBy(xpath = "//*[contains(text(), 'payment')]")
 	public WebElement AddAPaymentMethod;
@@ -109,7 +110,17 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//button[text()='Remove']")
 	public WebElement removeAddress;
 	
+	@FindBy(xpath = "//div[text()='Payment Method updated Successfully']")
+	public WebElement alertCreditCardUpdate;
 	
+	@FindBy(xpath = "//div[text()='Address Added Successfully']")
+	public WebElement alertAddressAdded;
+	
+	@FindBy(xpath = "//button[@class='account__address-btn' and text()='Edit']")
+	public WebElement editAddressButton;
+	
+	@FindBy(xpath = "//div[text()='Address Updated Successfully']")
+	public WebElement alertAddressUpdated;
 	
 	
 }
