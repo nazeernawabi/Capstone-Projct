@@ -13,6 +13,7 @@ import com.mysql.cj.x.protobuf.MysqlxDatatypes.Array;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.an.E;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
@@ -37,21 +38,17 @@ public class RetailHomeSteps extends CommonUtility {
 	@Then("Below options are present in Shop by Department sidebar")
 	public void belowOptionsArePresentInShopByDepartmentSidebar(DataTable dataTable) {
 		List<List<String>> list = dataTable.asLists(String.class);
-
-		String electronicActualText = getElementText(factory.homePage().electronics);
-		String compActualText = getElementText(factory.homePage().computers);
-		String smartHomeActualText = getElementText(factory.homePage().smartHome);
-		String sportsActualText = getElementText(factory.homePage().sports);
-		String autoActualText = getElementText(factory.homePage().automative);
-		Assert.assertEquals(list.get(0).get(0), electronicActualText);
-		Assert.assertEquals(list.get(0).get(1), compActualText);
-		Assert.assertEquals(list.get(0).get(2), smartHomeActualText);
-		Assert.assertEquals(list.get(0).get(3), sportsActualText);
-		Assert.assertEquals(list.get(0).get(4), autoActualText);
+		Assert.assertEquals(list.get(0).get(0), getElementText(factory.homePage().electronics));
+		Assert.assertEquals(list.get(0).get(1), getElementText(factory.homePage().computers));
+		Assert.assertEquals(list.get(0).get(2), getElementText(factory.homePage().smartHome));
+		Assert.assertEquals(list.get(0).get(3), getElementText(factory.homePage().sports));
+		Assert.assertEquals(list.get(0).get(4), getElementText(factory.homePage().automative));
 		logger.info("all options are present");
 
 	}
 
+	//Scenario Outline: Verify department sidebar options
+	
 	@Then("below options are present in the department")
 	public void belowOptionsArePresentInTheDepartment(DataTable dataTable) {
 		List<Map<String, String>> list = dataTable.asMaps(String.class, String.class);
@@ -126,11 +123,82 @@ public class RetailHomeSteps extends CommonUtility {
 
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String string) {
-		String expectedQty = string;
+		waitTillPresence(factory.homePage().cartQty);
 		String actualQty = getElementText(factory.homePage().cartQty);
-		Assert.assertEquals(expectedQty, actualQty);
+		Assert.assertEquals(string,actualQty);
 		logger.info("cart icon quantity changed to 2");
 
 	}
 
+	//Scenario: Verify user can place an order without Shipping address and payment Method on file AND
+	//Scenario: Verify User can place an order with Shipping address and payment Method on file
+	@Then("User click on Cart option")
+	public void userClickOnCartOption() {
+	  click(factory.homePage().cartBtn);
+	  logger.info("User clicked on cart button");
+	}
+	@Then("User click on Proceed to Checkout button")
+	public void userClickOnProceedToCheckoutButton() {
+		click(factory.homePage().proceedCheckOutBtn);
+		  logger.info("User clicked on proceed to checkout button");
+	}
+	
+	@And("User click add Your address button")
+	public void userClickAddYourAddressButton() {
+	    click(factory.homePage().CheckOutAddressBtn);
+	    logger.info("user clicked on address button");
+	}
+	
+	@And("User fill address form with below new information")
+	public void userFillNewAddressFormWithBelowInformation(DataTable data) {
+	  List<Map<String,String>> address = data.asMaps(String.class,String.class);
+	  selectByVisibleText(factory.homePage().countryDropdown,"United States");
+	  sendText(factory.homePage().fullNameInput,address.get(0).get("fullName"));
+	  sendText(factory.homePage().adddresspPhoneNumberInput,address.get(0).get("phoneNumber"));
+	  sendText(factory.homePage().streetInput,address.get(0).get("streetAddress"));
+	  sendText(factory.homePage().apartmentInput,address.get(0).get("apt"));
+	  sendText(factory.homePage().cityInput,address.get(0).get("city"));
+	  selectByValue(factory.homePage().stateInput,"California");
+	  sendText(factory.homePage().zipCodeInput,address.get(0).get("zipCode"));
+	  logger.info("user filled in address information");
+	}
+	
+	@When("User click Add a credit card for Payment method")
+	public void userClickOnAddAPaymentMethodLink() {
+		click(factory.homePage().addCreditCardCheckoutBtn);
+		logger.info("user clicked on Add A Payment Method");
+	}
+
+	@Then("User fill debit card information")
+	public void userFillDebitCardInformation(DataTable data) {
+		List<Map<String, String>> card = data.asMaps(String.class, String.class);
+		sendText(factory.homePage().cardNumberInput, card.get(0).get("cardNumber"));
+		sendText(factory.homePage().nameOnCardInput, card.get(0).get("nameOnCard"));
+		selectByVisibleText(factory.homePage().expirationMonthInput,card.get(0).get("expirationMonth"));
+		selectByVisibleText(factory.homePage().expirationYearInput,card.get(0).get("expiratonYear"));
+		sendText(factory.homePage().securityCodeInput, card.get(0).get("securityCode"));
+		logger.info("user entered credit card information"); 
+	}
+	
+	@Then("User click on Place Your Order")
+	public void userClickOnPlaceYourOrder() {
+		click(factory.homePage().placeOrderBtn);
+		  logger.info("User clicked on place order button button"); 
+	}
+	@Then("The message should be displayed {string}")
+	public void theMessageShouldBeDisplayed(String string) {
+	    Assert.assertEquals(string, getElementText(factory.homePage().oderPlacedSuccessfullyMessage));
+	    logger.info("Order placed successfully message displaced ");
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

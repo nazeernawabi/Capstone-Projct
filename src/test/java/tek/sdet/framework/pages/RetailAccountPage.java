@@ -16,8 +16,11 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(id = "nameInput")
 	public WebElement nameInput;
 	
-	@FindBy(id = "phoneNumberInput")
+	@FindBy(id = "personalPhoneInput")
 	public WebElement phoneNumberInput;
+	
+	@FindBy(id ="phoneNumberInput")
+	public WebElement adddresspPhoneNumberInput;
 	
 	@FindBy(id = "personalUpdateBtn")
 	public WebElement updateButton;

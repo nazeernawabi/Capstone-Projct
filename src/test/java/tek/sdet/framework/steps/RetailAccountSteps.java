@@ -93,8 +93,8 @@ public class RetailAccountSteps extends CommonUtility {
 		List<Map<String, String>> card = data.asMaps(String.class, String.class);
 		sendText(factory.accountPage().cardNumberInput, card.get(0).get("cardNumber"));
 		sendText(factory.accountPage().nameOnCardInput, card.get(0).get("nameOnCard"));
-		sendText(factory.accountPage().expirationMonthInput, card.get(0).get("expirationMonth"));
-		sendText(factory.accountPage().expirationYearInput, card.get(0).get("expirationMonth"));
+		selectByVisibleText(factory.accountPage().expirationMonthInput,card.get(0).get("expirationMonth"));
+		selectByVisibleText(factory.accountPage().expirationYearInput,card.get(0).get("expiratonYear"));
 		sendText(factory.accountPage().securityCodeInput, card.get(0).get("securityCode"));
 		logger.info("user entered credit card information");
 	}
@@ -119,7 +119,7 @@ public class RetailAccountSteps extends CommonUtility {
 		click(factory.accountPage().Edit);
 		logger.info("user clicked on Edit button");
 	}
-//could not locate disappearing pop-up alert locator
+
 	
 	@And("User edit information with below data")
 	public void useEditInformationWithBelowData(DataTable data) {
@@ -128,8 +128,8 @@ public class RetailAccountSteps extends CommonUtility {
 		sendText(factory.accountPage().cardNumberInput, cardEdit.get(0).get("cardNumber"));
 		factory.accountPage().nameOnCardInput.clear();
 		sendText(factory.accountPage().nameOnCardInput, cardEdit.get(0).get("nameOnCard"));
-		sendText(factory.accountPage().expirationMonthInput, cardEdit.get(0).get("expirationMonth"));
-		sendText(factory.accountPage().expirationYearInput, cardEdit.get(0).get("expiratonYear"));
+		selectByVisibleText(factory.accountPage().expirationYearInput,cardEdit.get(0).get("expiratonYear"));
+		selectByVisibleText(factory.accountPage().expirationMonthInput,cardEdit.get(0).get("expirationMonth"));
 		factory.accountPage().securityCodeInput.clear();
 		sendText(factory.accountPage().securityCodeInput, cardEdit.get(0).get("securityCode"));
 		logger.info("user entered card information");
@@ -174,10 +174,10 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("User fill new address form with below information")
 	public void userFillNewAddressFormWithBelowInformation(DataTable data) {
 	  List<Map<String,String>> address = data.asMaps(String.class,String.class);
-	  
-	  selectByValue(factory.accountPage().countryDropdown,"United States");
+	  waitTillPresence(factory.accountPage().countryDropdown);
+	  selectByVisibleText(factory.accountPage().countryDropdown,address.get(0).get("United States"));
 	  sendText(factory.accountPage().fullNameInput,address.get(0).get("fullName"));
-	  sendText(factory.accountPage().phoneNumberInput,address.get(0).get("phoneNumber"));
+	  sendText(factory.accountPage().adddresspPhoneNumberInput,address.get(0).get("phoneNumber"));
 	  sendText(factory.accountPage().streetInput,address.get(0).get("streetAddress"));
 	  sendText(factory.accountPage().apartmentInput,address.get(0).get("apt"));
 	  sendText(factory.accountPage().cityInput,address.get(0).get("city"));
@@ -213,25 +213,18 @@ public class RetailAccountSteps extends CommonUtility {
 		List<Map<String,String>> address = data.asMaps(String.class,String.class);
 		  
 		  selectByValue(factory.accountPage().countryDropdown,"United States");
-		 
-		 
-		  factory.accountPage().fullNameInput.clear();
-		  factory.accountPage().phoneNumberInput.clear();
-		  factory.accountPage().streetInput.clear();
-		  factory.accountPage().apartmentInput.clear();
-		  factory.accountPage().cityInput.clear();
-		  factory.accountPage().zipCodeInput.clear();
+		  clearTextUsingSendKeys(factory.accountPage().fullNameInput);
 		  sendText(factory.accountPage().fullNameInput,address.get(0).get("fullName"));
-		  
+		  clearTextUsingSendKeys(factory.accountPage().phoneNumberInput);
 		  sendText(factory.accountPage().phoneNumberInput,address.get(0).get("phoneNumber"));
-		  
+		  clearTextUsingSendKeys(factory.accountPage().streetInput);
 		  sendText(factory.accountPage().streetInput,address.get(0).get("streetAddress"));
-		  
+		  clearTextUsingSendKeys(factory.accountPage().apartmentInput);
 		  sendText(factory.accountPage().apartmentInput,address.get(0).get("apt"));
-		  
+		  clearTextUsingSendKeys(factory.accountPage().cityInput);
 		  sendText(factory.accountPage().cityInput,address.get(0).get("city"));
 		  selectByValue(factory.accountPage().stateInput,"California");
-		  
+		  clearTextUsingSendKeys(factory.accountPage().zipCodeInput);
 		  sendText(factory.accountPage().zipCodeInput,address.get(0).get("zipCode"));
 		  logger.info("user entered new address information");
 	}

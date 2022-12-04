@@ -82,13 +82,65 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath="//button[@id='addToCartBtn']/child::*")
 	public WebElement addToCartBtn;
 	
-	@FindBy(id="cartQuantity")
+	@FindBy(xpath="//span[text()='2']")
 	public WebElement cartQty; 
 	
 	@FindBy(id="search")
 	public WebElement searchCatagory;
 	
+	@FindBy(xpath = "//p[text()='Cart ']")
+	public WebElement cartBtn;
+	@FindBy(id="proceedBtn")
+	public WebElement proceedCheckOutBtn;
 	
+	@FindBy(id="addAddressBtn")
+	public WebElement CheckOutAddressBtn;
 	
+	@FindBy(id="placeOrderBtn")
+	public WebElement placeOrderBtn;
 	
+	@FindBy(xpath="//div[text()='Order Placed Successfully']")
+	public WebElement oderPlacedSuccessfullyMessage;
+	
+	@FindBy(id = "countryDropdown")
+	public WebElement countryDropdown;
+	
+	@FindBy(id = "fullNameInput")
+	public WebElement fullNameInput;
+	
+	@FindBy(id = "streetInput")
+	public WebElement streetInput;
+	
+	@FindBy(id = "apartmentInput")
+	public WebElement apartmentInput;
+	
+	@FindBy(id = "cityInput")
+	public WebElement cityInput;
+	
+	@FindBy(name = "state")
+	public WebElement stateInput;
+	
+	@FindBy(id = "zipCodeInput")
+	public WebElement zipCodeInput;
+	
+	@FindBy(id ="phoneNumberInput")
+	public WebElement adddresspPhoneNumberInput;
+	
+	@FindBy(id = "addPaymentBtn")
+	public WebElement addCreditCardCheckoutBtn;
+	
+	@FindBy(id = "cardNumberInput")
+	public WebElement cardNumberInput;
+	
+	@FindBy(id = "nameOnCardInput")
+	public WebElement nameOnCardInput;
+	
+	@FindBy(id = "expirationMonthInput")
+	public WebElement expirationMonthInput;
+	
+	@FindBy(id = "expirationYearInput")
+	public WebElement expirationYearInput;
+	
+	@FindBy(id = "securityCodeInput")
+	public WebElement securityCodeInput;
 }

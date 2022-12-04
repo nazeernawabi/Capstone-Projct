@@ -15,7 +15,7 @@ Then User should be logged in into Account
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name  | email                 | password   | confirmPassword |
-      | Jamie | jamie2225@tekschool.us | Tek@987654 | Tek@987654      |
+      | Jamie | michaeljurdan@tekschool.us | Tek@987654 | Tek@987654      |
     And User click on signUp button
     Then User should be logged into account page
 
