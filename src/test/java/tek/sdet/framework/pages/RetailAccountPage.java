@@ -44,7 +44,7 @@ public class RetailAccountPage extends BaseSetup {
 	public WebElement alserPC;
 	
 	
-	@FindBy(xpath = "//*[contains(text(), 'payment')]")
+	@FindBy(xpath = "//p[text()='Add a payment method']")
 	public WebElement AddAPaymentMethod;
 	
 	@FindBy(id = "cardNumberInput")
@@ -125,5 +125,6 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//div[text()='Address Updated Successfully']")
 	public WebElement alertAddressUpdated;
 	
-	
+	@FindBy(xpath = "//div[text()='Payment Method added sucessfully']")
+	public WebElement paymentMethodAddedSucessfully;
 }

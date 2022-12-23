@@ -28,7 +28,7 @@ Feature: Retail Account feature
       | 4444555566667700 | Luke King  |              12 |          2025 |          999 |
     And User click on add your card button
     Then a message should be displayed 'Payment Method added successfully'
-
+ 
   Scenario: Verify user can edit Debit or Credit card
     And User click on Edit option of card section
     And User edit information with below data

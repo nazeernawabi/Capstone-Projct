@@ -2,6 +2,8 @@ package tek.sdet.framework.pages;
 
 
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -69,8 +71,8 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(id="searchBtn")
 	public WebElement searchBtn;
 	
-	@FindBy(xpath="//img[@alt='Kasa Outdoor Smart Plug']")
-	public WebElement kasaPlug;
+	@FindBy(xpath="//p[@class='products__name']")
+	public WebElement productName;
 	
 	
 	@FindBy(xpath="//select[@class='product__select']")
@@ -82,7 +84,7 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath="//button[@id='addToCartBtn']/child::*")
 	public WebElement addToCartBtn;
 	
-	@FindBy(xpath="//span[text()='2']")
+	@FindBy(id="cartQuantity")
 	public WebElement cartQty; 
 	
 	@FindBy(id="search")
@@ -143,4 +145,17 @@ public class RetailHomePage extends BaseSetup {
 	
 	@FindBy(id = "securityCodeInput")
 	public WebElement securityCodeInput;
+	
+	@FindBy(xpath = "//div[@class='sidebar_content-item']/span")
+	public List<WebElement> sidebar;
+	@FindBy(xpath = "//p[text()='Order Placed, Thanks']")
+	public WebElement orderPlacedThanks;
+	
+	@FindBy(id = "addAddressBtn")
+	public WebElement addAddressBtn;
+	
+	
+	
+	
+	
 }

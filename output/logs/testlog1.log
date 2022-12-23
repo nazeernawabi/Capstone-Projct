@@ -2102,3 +2102,570 @@
 2022-12-03 09:33:26,059 [main] INFO logger_File - user changed the category to smart home
 2022-12-03 09:33:26,193 [main] INFO logger_File - user searched for item
 2022-12-03 09:33:26,308 [main] INFO logger_File - user clicked on search button
+2022-12-05 17:28:32,183 [main] INFO logger_File - React Appis equal toReact App
+2022-12-05 17:28:33,147 [main] INFO logger_File - User clicked on signIn button
+2022-12-05 17:28:34,793 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-05 17:28:35,216 [main] INFO logger_File - user clicked on login button
+2022-12-05 17:28:35,897 [main] INFO logger_File - user logged in into the account
+2022-12-05 17:28:36,592 [main] INFO logger_File - user clicked on account button
+2022-12-05 17:28:37,068 [main] INFO logger_File - user clicked on account button
+2022-12-05 17:28:38,134 [main] INFO logger_File - user entered John Dudeand phone number9162151111
+2022-12-07 17:41:41,633 [main] INFO logger_File - React Appis equal toReact App
+2022-12-07 17:41:42,179 [main] INFO logger_File - User clicked on signIn button
+2022-12-07 17:41:43,180 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-07 17:41:43,718 [main] INFO logger_File - user clicked on login button
+2022-12-07 17:41:44,505 [main] INFO logger_File - user logged in into the account
+2022-12-07 17:41:44,989 [main] INFO logger_File - user clicked on account button
+2022-12-07 17:41:45,360 [main] INFO logger_File - user entered updated information
+2022-12-07 17:41:45,459 [main] INFO logger_File - user clicked on change password button
+2022-12-07 17:43:00,038 [main] INFO logger_File - React Appis equal toReact App
+2022-12-07 17:43:00,318 [main] INFO logger_File - User clicked on signIn button
+2022-12-07 17:43:00,602 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-07 17:43:00,700 [main] INFO logger_File - user clicked on login button
+2022-12-07 17:43:01,382 [main] INFO logger_File - user logged in into the account
+2022-12-07 17:43:01,597 [main] INFO logger_File - user clicked on account button
+2022-12-07 17:43:01,727 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-07 17:43:02,701 [main] INFO logger_File - user entered credit card information
+2022-12-07 17:43:02,912 [main] INFO logger_File - user cliked on add card button
+2022-12-07 17:43:03,053 [main] INFO logger_File - card picture is present
+2022-12-07 17:43:18,022 [main] INFO logger_File - React Appis equal toReact App
+2022-12-07 17:43:18,202 [main] INFO logger_File - User clicked on signIn button
+2022-12-07 17:43:18,496 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-07 17:43:18,582 [main] INFO logger_File - user clicked on login button
+2022-12-07 17:43:19,203 [main] INFO logger_File - user logged in into the account
+2022-12-07 17:43:19,408 [main] INFO logger_File - user clicked on account button
+2022-12-21 19:39:00,829 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 19:39:01,384 [main] INFO logger_File - user clicked on All section button
+2022-12-21 19:39:18,772 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 19:39:18,890 [main] INFO logger_File - user clicked on All section button
+2022-12-21 19:39:27,727 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 19:39:27,855 [main] INFO logger_File - user clicked on All section button
+2022-12-21 19:39:36,211 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 19:39:36,335 [main] INFO logger_File - user clicked on All section button
+2022-12-21 19:39:45,822 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 19:39:45,960 [main] INFO logger_File - user clicked on All section button
+2022-12-21 20:55:23,172 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 20:55:24,877 [main] INFO logger_File - user clicked on All section button
+2022-12-21 20:55:34,840 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 20:55:34,957 [main] INFO logger_File - user clicked on All section button
+2022-12-21 20:55:44,459 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 20:55:44,587 [main] INFO logger_File - user clicked on All section button
+2022-12-21 20:55:58,050 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 20:55:58,199 [main] INFO logger_File - user clicked on All section button
+2022-12-21 20:56:07,649 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 20:56:07,789 [main] INFO logger_File - user clicked on All section button
+2022-12-21 21:10:36,610 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 21:10:38,284 [main] INFO logger_File - user clicked on All section button
+2022-12-21 21:10:38,591 [main] INFO logger_File - TV & Videois present
+2022-12-21 21:10:48,506 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 21:10:48,641 [main] INFO logger_File - user clicked on All section button
+2022-12-21 21:10:49,346 [main] INFO logger_File - Accessoriesis present
+2022-12-21 21:10:57,653 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 21:10:57,794 [main] INFO logger_File - user clicked on All section button
+2022-12-21 21:10:58,145 [main] INFO logger_File - Smart Home Lightningis present
+2022-12-21 21:11:06,617 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 21:11:06,746 [main] INFO logger_File - user clicked on All section button
+2022-12-21 21:11:07,366 [main] INFO logger_File - Athletic Clothingis present
+2022-12-21 21:11:13,859 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 21:11:13,988 [main] INFO logger_File - user clicked on All section button
+2022-12-21 21:11:14,542 [main] INFO logger_File - Automative Parts & Accessoriesis present
+2022-12-21 22:04:59,859 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 22:05:00,874 [main] INFO logger_File - user clicked on All section button
+2022-12-21 22:05:01,214 [main] INFO logger_File - TV & Videois present
+2022-12-21 22:05:12,932 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 22:05:13,051 [main] INFO logger_File - user clicked on All section button
+2022-12-21 22:05:13,735 [main] INFO logger_File - Accessoriesis present
+2022-12-21 22:05:24,755 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 22:05:24,888 [main] INFO logger_File - user clicked on All section button
+2022-12-21 22:05:25,156 [main] INFO logger_File - Smart Home Lightningis present
+2022-12-21 22:05:33,509 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 22:05:33,623 [main] INFO logger_File - user clicked on All section button
+2022-12-21 22:05:33,738 [main] INFO logger_File - Athletic Clothingis present
+2022-12-21 22:05:41,693 [main] INFO logger_File - React Appis equal toReact App
+2022-12-21 22:05:41,854 [main] INFO logger_File - user clicked on All section button
+2022-12-21 22:05:41,985 [main] INFO logger_File - Automative Parts & Accessoriesis present
+2022-12-22 20:57:29,791 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 20:57:30,370 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 20:57:31,317 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 20:57:31,647 [main] INFO logger_File - user clicked on login button
+2022-12-22 20:57:32,505 [main] INFO logger_File - user logged in into the account
+2022-12-22 20:57:34,627 [main] INFO logger_File - user clicked on account button
+2022-12-22 20:57:35,627 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 20:57:37,986 [main] INFO logger_File - user entered credit card information
+2022-12-22 20:57:38,214 [main] INFO logger_File - user cliked on add card button
+2022-12-22 20:57:38,783 [main] INFO logger_File - card picture is present
+2022-12-22 21:08:33,535 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:08:33,710 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:08:34,018 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:08:34,117 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:08:34,875 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:08:34,993 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 21:08:35,136 [main] INFO logger_File - user searched for item
+2022-12-22 21:08:35,252 [main] INFO logger_File - user clicked on search button
+2022-12-22 21:08:35,665 [main] INFO logger_File - user clicked on item
+2022-12-22 21:08:36,264 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 21:08:36,363 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 21:08:37,002 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 21:08:37,118 [main] INFO logger_File - user clicked on cart option
+2022-12-22 21:08:37,274 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 21:08:37,406 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 21:16:12,593 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:16:12,746 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:16:13,050 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:16:13,148 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:16:13,894 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:16:14,030 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 21:16:14,174 [main] INFO logger_File - user searched for item
+2022-12-22 21:16:14,291 [main] INFO logger_File - user clicked on search button
+2022-12-22 21:16:14,664 [main] INFO logger_File - user clicked on item
+2022-12-22 21:16:14,982 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 21:16:15,082 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 21:16:15,152 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 21:16:15,287 [main] INFO logger_File - user clicked on cart option
+2022-12-22 21:16:15,436 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 21:16:15,563 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 21:16:16,586 [main] INFO logger_File - user filled in address information
+2022-12-22 21:16:16,815 [main] INFO logger_File - user clicked on address button
+2022-12-22 21:16:16,968 [main] INFO logger_File - user clicked on add credit card or debit card payment method
+2022-12-22 21:16:17,506 [main] INFO logger_File - user entered credit card information
+2022-12-22 21:16:17,605 [main] INFO logger_File - user cliked on add card button
+2022-12-22 21:24:00,570 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:24:00,736 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:24:01,042 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:24:01,143 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:24:01,559 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:24:01,676 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 21:24:01,883 [main] INFO logger_File - user searched for item
+2022-12-22 21:24:02,063 [main] INFO logger_File - user clicked on search button
+2022-12-22 21:24:02,429 [main] INFO logger_File - user clicked on item
+2022-12-22 21:24:02,790 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 21:24:02,886 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 21:24:03,233 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 21:24:03,344 [main] INFO logger_File - user clicked on cart option
+2022-12-22 21:24:03,473 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 21:24:03,592 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 21:24:04,540 [main] INFO logger_File - user filled in address information
+2022-12-22 21:24:04,655 [main] INFO logger_File - user clicked on address button
+2022-12-22 21:25:26,358 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:25:26,502 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:25:26,794 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:25:26,887 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:25:27,668 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:25:27,784 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 21:25:27,927 [main] INFO logger_File - user searched for item
+2022-12-22 21:25:28,060 [main] INFO logger_File - user clicked on search button
+2022-12-22 21:25:28,449 [main] INFO logger_File - user clicked on item
+2022-12-22 21:25:28,817 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 21:25:28,915 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 21:25:29,200 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 21:25:29,308 [main] INFO logger_File - user clicked on cart option
+2022-12-22 21:25:29,455 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 21:25:29,574 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 21:25:30,503 [main] INFO logger_File - user filled in address information
+2022-12-22 21:25:30,619 [main] INFO logger_File - user clicked on address button
+2022-12-22 21:26:55,824 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:26:55,965 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:26:56,248 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:26:56,341 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:26:56,771 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:26:56,899 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 21:26:57,054 [main] INFO logger_File - user searched for item
+2022-12-22 21:26:57,222 [main] INFO logger_File - user clicked on search button
+2022-12-22 21:26:57,576 [main] INFO logger_File - user clicked on item
+2022-12-22 21:26:57,933 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 21:26:58,033 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 21:26:58,350 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 21:26:58,459 [main] INFO logger_File - user clicked on cart option
+2022-12-22 21:26:58,590 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 21:26:58,708 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 21:26:59,618 [main] INFO logger_File - user filled in address information
+2022-12-22 21:26:59,737 [main] INFO logger_File - user clicked on address button
+2022-12-22 21:29:01,981 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:29:02,130 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:29:02,444 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:29:02,537 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:29:02,950 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:29:03,116 [main] INFO logger_File - user clicked on account button
+2022-12-22 21:32:27,961 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:32:28,101 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:32:28,396 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:32:28,486 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:32:28,908 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:32:29,106 [main] INFO logger_File - user clicked on account button
+2022-12-22 21:40:05,595 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:40:05,766 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:40:06,067 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:40:06,164 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:40:06,993 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:40:07,191 [main] INFO logger_File - user clicked on account button
+2022-12-22 21:47:13,891 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:47:14,089 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:47:14,412 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:47:14,516 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:47:15,142 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:47:15,376 [main] INFO logger_File - user clicked on account button
+2022-12-22 21:50:03,240 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 21:50:03,444 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 21:50:03,751 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 21:50:03,849 [main] INFO logger_File - user clicked on login button
+2022-12-22 21:50:04,280 [main] INFO logger_File - user logged in into the account
+2022-12-22 21:50:04,709 [main] INFO logger_File - user clicked on account button
+2022-12-22 21:50:04,852 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 21:50:06,095 [main] INFO logger_File - user entered credit card information
+2022-12-22 21:50:06,189 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:05:51,689 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:05:51,839 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:05:52,134 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:05:52,228 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:05:52,666 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:05:52,831 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:05:53,023 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:05:53,634 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:05:53,727 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:09:29,188 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:09:29,347 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:09:29,636 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:09:29,727 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:09:30,160 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:09:30,361 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:09:30,554 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:09:31,200 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:09:31,293 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:10:52,787 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:10:52,946 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:10:53,262 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:10:53,356 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:10:53,774 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:10:53,922 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:10:54,129 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:10:54,801 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:10:54,898 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:11:55,464 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:11:55,648 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:11:55,933 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:11:56,025 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:11:56,443 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:11:56,630 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:11:56,810 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:11:57,448 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:11:57,544 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:14:20,977 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:14:21,189 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:14:21,487 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:14:21,580 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:14:22,016 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:14:22,184 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:14:22,330 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:14:23,036 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:14:23,129 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:15:02,631 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:15:02,796 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:15:03,087 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:15:03,180 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:15:03,664 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:15:03,840 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:15:04,006 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:15:04,668 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:15:04,765 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:20:23,268 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:20:23,490 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:20:23,788 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:20:23,888 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:20:24,705 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:20:24,900 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:20:25,041 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:20:25,656 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:20:25,749 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:20:26,687 [main] INFO logger_File - card picture is present
+2022-12-22 22:22:14,507 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:22:14,670 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:22:14,970 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:22:15,060 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:22:15,774 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:22:15,894 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 22:22:16,050 [main] INFO logger_File - user searched for item
+2022-12-22 22:22:16,220 [main] INFO logger_File - user clicked on search button
+2022-12-22 22:22:17,404 [main] INFO logger_File - user clicked on item
+2022-12-22 22:22:18,880 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 22:22:18,987 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 22:22:19,457 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 22:22:19,784 [main] INFO logger_File - user clicked on cart option
+2022-12-22 22:22:19,964 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 22:22:20,085 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 22:22:21,033 [main] INFO logger_File - user filled in address information
+2022-12-22 22:22:21,281 [main] INFO logger_File - user clicked on address button
+2022-12-22 22:22:21,429 [main] INFO logger_File - user clicked on add credit card or debit card payment method
+2022-12-22 22:22:21,973 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:22:22,080 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:22:22,774 [main] INFO logger_File - user clicked on place your order button
+2022-12-22 22:30:10,729 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:30:11,263 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:30:12,868 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:30:13,707 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:30:13,805 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:30:16,323 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 22:30:16,508 [main] INFO logger_File - user searched for item
+2022-12-22 22:30:16,599 [main] INFO logger_File - user clicked on search button
+2022-12-22 22:30:17,309 [main] INFO logger_File - user clicked on item
+2022-12-22 22:30:19,712 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 22:30:19,800 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 22:30:20,286 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 22:30:20,410 [main] INFO logger_File - user clicked on cart option
+2022-12-22 22:30:20,539 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 22:30:20,671 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 22:30:21,733 [main] INFO logger_File - user filled in address information
+2022-12-22 22:30:22,064 [main] INFO logger_File - user clicked on address button
+2022-12-22 22:30:22,421 [main] INFO logger_File - user clicked on add credit card or debit card payment method
+2022-12-22 22:30:22,981 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:30:23,079 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:30:23,730 [main] INFO logger_File - user clicked on place your order button
+2022-12-22 22:30:24,235 [main] INFO logger_File - Order Placed, Thanksis displayed
+2022-12-22 22:35:01,710 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:35:01,851 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:35:02,156 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:35:02,256 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:35:02,717 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:35:02,894 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 22:35:03,028 [main] INFO logger_File - user searched for item
+2022-12-22 22:35:03,131 [main] INFO logger_File - user clicked on search button
+2022-12-22 22:35:03,493 [main] INFO logger_File - user clicked on item
+2022-12-22 22:35:03,878 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 22:35:03,979 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 22:35:04,308 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 22:35:04,416 [main] INFO logger_File - user clicked on cart option
+2022-12-22 22:35:04,538 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 22:35:04,653 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 22:35:05,556 [main] INFO logger_File - user filled in address information
+2022-12-22 22:35:05,672 [main] INFO logger_File - user clicked on address button
+2022-12-22 22:40:34,657 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:40:34,801 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:40:35,119 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:40:35,214 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:40:35,649 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:40:35,786 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 22:40:35,933 [main] INFO logger_File - user searched for item
+2022-12-22 22:40:36,099 [main] INFO logger_File - user clicked on search button
+2022-12-22 22:40:36,420 [main] INFO logger_File - user clicked on item
+2022-12-22 22:40:36,820 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 22:40:36,917 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 22:40:37,204 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 22:40:37,308 [main] INFO logger_File - user clicked on cart option
+2022-12-22 22:40:37,443 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 22:40:37,564 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 22:40:38,471 [main] INFO logger_File - user filled in address information
+2022-12-22 22:40:38,590 [main] INFO logger_File - user clicked on address button
+2022-12-22 22:42:09,733 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:42:09,933 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:42:10,225 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:42:10,321 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:42:10,806 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:42:10,982 [main] INFO logger_File - user clicked on account button
+2022-12-22 22:42:11,150 [main] INFO logger_File - user clicked on Add A Payment Method
+2022-12-22 22:42:11,787 [main] INFO logger_File - user entered credit card information
+2022-12-22 22:42:11,877 [main] INFO logger_File - user cliked on add card button
+2022-12-22 22:42:12,757 [main] INFO logger_File - card picture is present
+2022-12-22 22:43:45,198 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 22:43:45,337 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 22:43:45,634 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 22:43:45,727 [main] INFO logger_File - user clicked on login button
+2022-12-22 22:43:46,158 [main] INFO logger_File - user logged in into the account
+2022-12-22 22:43:46,294 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 22:43:46,447 [main] INFO logger_File - user searched for item
+2022-12-22 22:43:46,601 [main] INFO logger_File - user clicked on search button
+2022-12-22 22:43:47,255 [main] INFO logger_File - user clicked on item
+2022-12-22 22:43:47,625 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 22:43:47,726 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 22:43:48,069 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 22:43:48,177 [main] INFO logger_File - user clicked on cart option
+2022-12-22 22:43:48,304 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 22:43:48,422 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 22:43:49,332 [main] INFO logger_File - user filled in address information
+2022-12-22 22:43:49,445 [main] INFO logger_File - user clicked on address button
+2022-12-22 23:21:51,155 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 23:21:52,074 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 23:21:52,953 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 23:21:54,666 [main] INFO logger_File - user clicked on login button
+2022-12-22 23:21:56,115 [main] INFO logger_File - user logged in into the account
+2022-12-22 23:21:56,441 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 23:21:56,663 [main] INFO logger_File - user searched for item
+2022-12-22 23:21:56,756 [main] INFO logger_File - user clicked on search button
+2022-12-22 23:21:57,171 [main] INFO logger_File - user clicked on item
+2022-12-22 23:21:57,549 [main] INFO logger_File - user selected 2 quantities
+2022-12-22 23:21:57,638 [main] INFO logger_File - user clicked on add to cart button
+2022-12-22 23:21:59,578 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-22 23:21:59,682 [main] INFO logger_File - user clicked on cart option
+2022-12-22 23:21:59,798 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-22 23:21:59,912 [main] INFO logger_File - user clicked on new address link for shiping address
+2022-12-22 23:22:00,901 [main] INFO logger_File - user filled in address information
+2022-12-22 23:22:01,089 [main] INFO logger_File - user clicked on address button
+2022-12-22 23:22:01,247 [main] INFO logger_File - user clicked on add credit card or debit card payment method
+2022-12-22 23:22:01,826 [main] INFO logger_File - user entered credit card information
+2022-12-22 23:22:01,926 [main] INFO logger_File - user cliked on add card button
+2022-12-22 23:22:02,561 [main] INFO logger_File - user clicked on place your order button
+2022-12-22 23:22:03,297 [main] INFO logger_File - Order Placed, Thanksis displayed
+2022-12-22 23:23:54,568 [main] INFO logger_File - React Appis equal toReact App
+2022-12-22 23:23:54,719 [main] INFO logger_File - User clicked on signIn button
+2022-12-22 23:23:55,003 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-22 23:23:55,097 [main] INFO logger_File - user clicked on login button
+2022-12-22 23:23:55,509 [main] INFO logger_File - user logged in into the account
+2022-12-22 23:23:55,623 [main] INFO logger_File - user changed the category to smart home
+2022-12-22 23:23:55,768 [main] INFO logger_File - user searched for item
+2022-12-22 23:23:55,964 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:00:16,475 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:00:17,668 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:00:18,128 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:00:18,446 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:00:18,736 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:00:18,925 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:00:19,064 [main] INFO logger_File - user searched for item
+2022-12-23 00:00:19,165 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:00:19,688 [main] INFO logger_File - user clicked on item
+2022-12-23 00:00:20,012 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:00:20,115 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:08:31,366 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:08:31,551 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:08:31,850 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:08:31,942 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:08:32,450 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:08:32,618 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:08:32,749 [main] INFO logger_File - user searched for item
+2022-12-23 00:08:32,856 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:08:33,294 [main] INFO logger_File - user clicked on item
+2022-12-23 00:08:33,989 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:08:34,069 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:17:01,889 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:17:02,034 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:17:02,325 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:17:02,432 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:17:03,138 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:17:03,277 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:17:03,397 [main] INFO logger_File - user searched for item
+2022-12-23 00:17:03,485 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:17:03,856 [main] INFO logger_File - user clicked on item
+2022-12-23 00:17:04,151 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:17:04,250 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:26:44,133 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:26:44,273 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:26:44,571 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:26:44,670 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:26:45,236 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:26:45,349 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:26:45,466 [main] INFO logger_File - user searched for item
+2022-12-23 00:26:45,583 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:26:45,981 [main] INFO logger_File - user clicked on item
+2022-12-23 00:26:46,348 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:26:46,453 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:30:09,501 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:30:09,632 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:30:09,928 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:30:10,025 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:30:10,882 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:30:11,003 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:30:11,112 [main] INFO logger_File - user searched for item
+2022-12-23 00:30:11,264 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:30:11,623 [main] INFO logger_File - user clicked on item
+2022-12-23 00:30:11,973 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:30:12,068 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:30:12,432 [main] INFO logger_File - cart icon quantity changed to 2
+2022-12-23 00:30:12,535 [main] INFO logger_File - user clicked on cart option
+2022-12-23 00:30:12,700 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-23 00:30:12,794 [main] INFO logger_File - user clicked on place your order button
+2022-12-23 00:30:13,483 [main] INFO logger_File - Order Placed, Thanksis displayed
+2022-12-23 00:36:00,027 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:36:00,172 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:36:00,478 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:36:00,569 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:36:01,094 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:36:01,216 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:36:01,340 [main] INFO logger_File - user searched for item
+2022-12-23 00:36:01,451 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:36:01,916 [main] INFO logger_File - user clicked on item
+2022-12-23 00:36:03,213 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:36:03,297 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:44:33,470 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:44:33,607 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:44:33,888 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:44:33,982 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:44:34,490 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:44:34,625 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:44:34,808 [main] INFO logger_File - user searched for item
+2022-12-23 00:44:34,898 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:44:35,265 [main] INFO logger_File - user clicked on item
+2022-12-23 00:44:35,570 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:44:35,673 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 00:48:21,717 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 00:48:21,854 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 00:48:22,181 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 00:48:22,303 [main] INFO logger_File - user clicked on login button
+2022-12-23 00:48:22,682 [main] INFO logger_File - user logged in into the account
+2022-12-23 00:48:22,793 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 00:48:22,919 [main] INFO logger_File - user searched for item
+2022-12-23 00:48:23,024 [main] INFO logger_File - user clicked on search button
+2022-12-23 00:48:23,415 [main] INFO logger_File - user clicked on item
+2022-12-23 00:48:23,795 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 00:48:23,883 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 01:01:23,811 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 01:01:23,985 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 01:01:24,270 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 01:01:24,372 [main] INFO logger_File - user clicked on login button
+2022-12-23 01:01:25,186 [main] INFO logger_File - user logged in into the account
+2022-12-23 01:01:25,295 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 01:01:25,413 [main] INFO logger_File - user searched for item
+2022-12-23 01:01:25,514 [main] INFO logger_File - user clicked on search button
+2022-12-23 01:01:26,024 [main] INFO logger_File - user clicked on item
+2022-12-23 01:01:26,406 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 01:01:26,527 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 01:05:45,798 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 01:05:45,967 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 01:05:46,281 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 01:05:46,376 [main] INFO logger_File - user clicked on login button
+2022-12-23 01:05:46,844 [main] INFO logger_File - user logged in into the account
+2022-12-23 01:05:46,992 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 01:05:47,115 [main] INFO logger_File - user searched for item
+2022-12-23 01:05:47,216 [main] INFO logger_File - user clicked on search button
+2022-12-23 01:05:47,616 [main] INFO logger_File - user clicked on item
+2022-12-23 01:05:47,996 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 01:05:48,082 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 01:14:45,939 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 01:14:46,069 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 01:14:46,368 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 01:14:46,466 [main] INFO logger_File - user clicked on login button
+2022-12-23 01:14:47,017 [main] INFO logger_File - user logged in into the account
+2022-12-23 01:14:47,144 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 01:14:47,278 [main] INFO logger_File - user searched for item
+2022-12-23 01:14:47,378 [main] INFO logger_File - user clicked on search button
+2022-12-23 01:14:47,795 [main] INFO logger_File - user clicked on item
+2022-12-23 01:14:48,130 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 01:14:48,236 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 01:17:00,304 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 01:17:00,553 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 01:17:00,876 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 01:17:01,084 [main] INFO logger_File - user clicked on login button
+2022-12-23 01:17:01,618 [main] INFO logger_File - user logged in into the account
+2022-12-23 01:17:01,746 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 01:17:01,872 [main] INFO logger_File - user searched for item
+2022-12-23 01:17:01,980 [main] INFO logger_File - user clicked on search button
+2022-12-23 01:17:02,368 [main] INFO logger_File - user clicked on item
+2022-12-23 01:17:02,684 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 01:17:02,785 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 01:17:03,158 [main] INFO logger_File - cart icon quantity changed to 5
+2022-12-23 01:17:03,269 [main] INFO logger_File - user clicked on cart option
+2022-12-23 01:17:03,392 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-23 01:17:03,482 [main] INFO logger_File - user clicked on place your order button
+2022-12-23 01:17:04,006 [main] INFO logger_File - Order Placed, Thanksis displayed
+2022-12-23 01:17:58,245 [main] INFO logger_File - React Appis equal toReact App
+2022-12-23 01:17:58,439 [main] INFO logger_File - User clicked on signIn button
+2022-12-23 01:17:58,788 [main] INFO logger_File - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 01:17:58,887 [main] INFO logger_File - user clicked on login button
+2022-12-23 01:17:59,399 [main] INFO logger_File - user logged in into the account
+2022-12-23 01:17:59,536 [main] INFO logger_File - user changed the category to smart home
+2022-12-23 01:17:59,657 [main] INFO logger_File - user searched for item
+2022-12-23 01:17:59,760 [main] INFO logger_File - user clicked on search button
+2022-12-23 01:18:00,196 [main] INFO logger_File - user clicked on item
+2022-12-23 01:18:00,553 [main] INFO logger_File - user selected 2 quantities
+2022-12-23 01:18:00,642 [main] INFO logger_File - user clicked on add to cart button
+2022-12-23 01:18:00,932 [main] INFO logger_File - cart icon quantity changed to 5
+2022-12-23 01:18:01,040 [main] INFO logger_File - user clicked on cart option
+2022-12-23 01:18:01,157 [main] INFO logger_File - user clicked on proceed to checkout button
+2022-12-23 01:18:01,254 [main] INFO logger_File - user clicked on place your order button
+2022-12-23 01:18:01,856 [main] INFO logger_File - Order Placed, Thanksis displayed

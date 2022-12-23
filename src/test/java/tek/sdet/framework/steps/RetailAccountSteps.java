@@ -106,9 +106,11 @@ public class RetailAccountSteps extends CommonUtility {
 	}
 
 	@Then("a message should be displayed {string}")
-	public void aMessageShouldBeDisplayed(String string) {
-		Assert.assertTrue(isElementDisplayed(factory.accountPage().cardPicture));
+	public void aMessageShouldBeDisplayed(String expectedMessage) {
+		waitTillPresence(factory.accountPage().paymentMethodAddedSucessfully);
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().paymentMethodAddedSucessfully));
 		logger.info("card picture is present");
+		
 	}
 
 	//Scenario: Verify user can edit Debit or Credit card
@@ -142,13 +144,20 @@ public class RetailAccountSteps extends CommonUtility {
 	}
 
 	@Then("message should be displayed {string}")
-	public void messageShouldBeDisplayed(String message) {
-		String actualMessage = message;
-		String expectedMessage = getElementText(factory.accountPage().alertCreditCardUpdate);
-		Assert.assertEquals(expectedMessage, actualMessage);
-		logger.info("update payment method alert displayed");
+	public void messageShouldBeDisplayed(String expectedMessage) {
+		
+		if(expectedMessage.contains("Payment Method added successfully")) {
+		waitTillPresence(factory.accountPage().AddAPaymentMethod);
+		Assert.assertEquals(expectedMessage, factory.accountPage().AddAPaymentMethod);
+		logger.info(expectedMessage + "is displayed");
+		
+		}else if(expectedMessage.contains("Order Placed, Thanks")) {
+			waitTillPresence(factory.homePage().orderPlacedThanks);
+			Assert.assertEquals(expectedMessage, factory.homePage().orderPlacedThanks.getText());
+			logger.info(expectedMessage + "is displayed");
+		}
 	}
-	
+
 	//Scenario: Verify user can remove Debit
 	
 	@When("User click on remove option of card section")
@@ -175,7 +184,7 @@ public class RetailAccountSteps extends CommonUtility {
 	public void userFillNewAddressFormWithBelowInformation(DataTable data) {
 	  List<Map<String,String>> address = data.asMaps(String.class,String.class);
 	  waitTillPresence(factory.accountPage().countryDropdown);
-	  selectByVisibleText(factory.accountPage().countryDropdown,address.get(0).get("United States"));
+	  selectByVisibleText(factory.accountPage().countryDropdown,address.get(0).get("country"));
 	  sendText(factory.accountPage().fullNameInput,address.get(0).get("fullName"));
 	  sendText(factory.accountPage().adddresspPhoneNumberInput,address.get(0).get("phoneNumber"));
 	  sendText(factory.accountPage().streetInput,address.get(0).get("streetAddress"));

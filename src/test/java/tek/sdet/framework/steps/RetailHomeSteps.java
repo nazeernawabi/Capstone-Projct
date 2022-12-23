@@ -49,35 +49,28 @@ public class RetailHomeSteps extends CommonUtility {
 
 	//Scenario Outline: Verify department sidebar options
 	
+	@When("User on {string}")
+	public void userOnElectronics(String department) {
+		
+		getDriver().findElement((By.xpath("//span[text()='"+department+"']"))).click();
+	    logger.info("user on departments");
+	}
 	@Then("below options are present in the department")
 	public void belowOptionsArePresentInTheDepartment(DataTable dataTable) {
-		List<Map<String, String>> list = dataTable.asMaps(String.class, String.class);
+	    List<List<String>> departmentOptions= dataTable.asLists(String.class);
+	    List<WebElement> dept = factory.homePage().sidebar;
+	    for(int i = 0; i < departmentOptions.get(0).size();i++ ) {
+	    	
+	    	for(WebElement element : dept) {
+	    		
+	    		if(element.getText().equals(departmentOptions.get(0).get(i))) {
+	    			Assert.assertTrue(element.isDisplayed());
+	    			logger.info(element.getText()+ "is present");
+	    		}
+	    	}
+	    }
 	}
 
-	@When("User on Electronics")
-	public void userOnElectronics() {
-
-	}
-
-	@When("User on Computers")
-	public void userOnComputers() {
-
-	}
-
-	@When("User on Smart Home")
-	public void userOnSmartHome() {
-
-	}
-
-	@When("User on Sports")
-	public void userOnSports() {
-
-	}
-
-	@When("User on Automative")
-	public void userOnAutomative() {
-
-	}
 
 	//Scenario: Verify user can add an item to cart
 	
@@ -103,7 +96,8 @@ public class RetailHomeSteps extends CommonUtility {
 
 	@Then("User click on item")
 	public void userClickOnItem() {
-		click(factory.homePage().kasaPlug);
+		waitTillPresence(factory.homePage().productName);
+		click(factory.homePage().productName);
 		logger.info("user clicked on item");
 	}
 
@@ -122,75 +116,63 @@ public class RetailHomeSteps extends CommonUtility {
 	}
 
 	@Then("the cart icon quantity should change to {string}")
-	public void theCartIconQuantityShouldChangeTo(String string) {
-		waitTillPresence(factory.homePage().cartQty);
-		String actualQty = getElementText(factory.homePage().cartQty);
-		Assert.assertEquals(string,actualQty);
-		logger.info("cart icon quantity changed to 2");
+	public void theCartIconQuantityShouldChangeTo(String expectedQty) {
+		
+		//waitTillPresence(factory.homePage().cartQty);
+		//String actualQty = getElementText(factory.homePage().cartQty);
+		Assert.assertEquals(expectedQty,factory.homePage().cartQty.getText());
+		logger.info("cart icon quantity changed to " + expectedQty);
 
 	}
 
 	//Scenario: Verify user can place an order without Shipping address and payment Method on file AND
 	//Scenario: Verify User can place an order with Shipping address and payment Method on file
+	
 	@Then("User click on Cart option")
 	public void userClickOnCartOption() {
-	  click(factory.homePage().cartBtn);
-	  logger.info("User clicked on cart button");
+	    click(factory.homePage().cartBtn);
+	    logger.info("user clicked on cart option");
 	}
 	@Then("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
-		click(factory.homePage().proceedCheckOutBtn);
-		  logger.info("User clicked on proceed to checkout button");
+	    click(factory.homePage().proceedCheckOutBtn);
+	    logger.info("user clicked on proceed to checkout button");
 	}
-	
-	@And("User click add Your address button")
-	public void userClickAddYourAddressButton() {
-	    click(factory.homePage().CheckOutAddressBtn);
-	    logger.info("user clicked on address button");
+	@Then("User click Add a new address link for shipping address")
+	public void userClickAddANewAddressLinkForShippingAddress() {
+	    click(factory.homePage().addAddressBtn);
+	    logger.info("user clicked on new address link for shiping address");
 	}
-	
-	@And("User fill address form with below new information")
-	public void userFillNewAddressFormWithBelowInformation(DataTable data) {
-	  List<Map<String,String>> address = data.asMaps(String.class,String.class);
-	  selectByVisibleText(factory.homePage().countryDropdown,"United States");
-	  sendText(factory.homePage().fullNameInput,address.get(0).get("fullName"));
-	  sendText(factory.homePage().adddresspPhoneNumberInput,address.get(0).get("phoneNumber"));
-	  sendText(factory.homePage().streetInput,address.get(0).get("streetAddress"));
-	  sendText(factory.homePage().apartmentInput,address.get(0).get("apt"));
-	  sendText(factory.homePage().cityInput,address.get(0).get("city"));
-	  selectByValue(factory.homePage().stateInput,"California");
-	  sendText(factory.homePage().zipCodeInput,address.get(0).get("zipCode"));
-	  logger.info("user filled in address information");
+	@Then("User click Add a credit card or Debit Card for Payment method")
+	public void userClickAddACreditCardOrDebitCardForPaymentMethod() {
+		waitTillClickable(factory.homePage().addCreditCardCheckoutBtn);
+	    click(factory.homePage().addCreditCardCheckoutBtn);
+	    logger.info("user clicked on add credit card or debit card payment method");
 	}
-	
-	@When("User click Add a credit card for Payment method")
-	public void userClickOnAddAPaymentMethodLink() {
-		click(factory.homePage().addCreditCardCheckoutBtn);
-		logger.info("user clicked on Add A Payment Method");
-	}
-
-	@Then("User fill debit card information")
-	public void userFillDebitCardInformation(DataTable data) {
-		List<Map<String, String>> card = data.asMaps(String.class, String.class);
-		sendText(factory.homePage().cardNumberInput, card.get(0).get("cardNumber"));
-		sendText(factory.homePage().nameOnCardInput, card.get(0).get("nameOnCard"));
-		selectByVisibleText(factory.homePage().expirationMonthInput,card.get(0).get("expirationMonth"));
-		selectByVisibleText(factory.homePage().expirationYearInput,card.get(0).get("expiratonYear"));
-		sendText(factory.homePage().securityCodeInput, card.get(0).get("securityCode"));
-		logger.info("user entered credit card information"); 
-	}
-	
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-		click(factory.homePage().placeOrderBtn);
-		  logger.info("User clicked on place order button button"); 
+	    click(factory.homePage().placeOrderBtn);
+	    logger.info("user clicked on place your order button");
 	}
-	@Then("The message should be displayed {string}")
-	public void theMessageShouldBeDisplayed(String string) {
-	    Assert.assertEquals(string, getElementText(factory.homePage().oderPlacedSuccessfullyMessage));
-	    logger.info("Order placed successfully message displaced ");
-	}
+
+	//Verify User can place an order with Shipping address and payment Method on file
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
 	
 	
 	
