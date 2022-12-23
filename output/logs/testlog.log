@@ -2669,3 +2669,86 @@
 2022-12-23 01:18:01,157 - logger_File -INFO - user clicked on proceed to checkout button
 2022-12-23 01:18:01,254 - logger_File -INFO - user clicked on place your order button
 2022-12-23 01:18:01,856 - logger_File -INFO - Order Placed, Thanksis displayed
+2022-12-23 11:20:55,854 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 11:20:56,384 - logger_File -INFO - User clicked on signIn button
+2022-12-23 11:20:56,878 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 11:20:56,979 - logger_File -INFO - user clicked on login button
+2022-12-23 11:20:59,971 - logger_File -INFO - user logged in into the account
+2022-12-23 11:21:00,085 - logger_File -INFO - ser clicked on order section
+2022-12-23 11:21:01,580 - logger_File -INFO - user clicked on first order
+2022-12-23 11:21:01,693 - logger_File -INFO - user clicked on cancel button
+2022-12-23 11:21:01,924 - logger_File -INFO - User selected the cancelation Reason
+2022-12-23 11:21:02,020 - logger_File -INFO - User clicked on Cancel Order button
+2022-12-23 11:21:02,616 - logger_File -INFO - Your Order Has Been Cancelleddisplayed
+2022-12-23 11:22:27,018 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 11:22:27,620 - logger_File -INFO - User clicked on signIn button
+2022-12-23 11:22:29,985 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 11:22:30,638 - logger_File -INFO - user clicked on login button
+2022-12-23 11:22:31,267 - logger_File -INFO - user logged in into the account
+2022-12-23 11:22:31,437 - logger_File -INFO - ser clicked on order section
+2022-12-23 11:22:34,351 - logger_File -INFO - user clicked on first order
+2022-12-23 11:22:34,501 - logger_File -INFO - user clicked on cancel button
+2022-12-23 11:22:36,738 - logger_File -INFO - User selected the cancelation Reason
+2022-12-23 11:22:36,897 - logger_File -INFO - User clicked on Cancel Order button
+2022-12-23 11:22:37,810 - logger_File -INFO - Your Order Has Been Cancelleddisplayed
+2022-12-23 12:07:46,838 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 12:07:48,668 - logger_File -INFO - User clicked on signIn button
+2022-12-23 12:07:49,139 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 12:07:49,231 - logger_File -INFO - user clicked on login button
+2022-12-23 12:07:53,197 - logger_File -INFO - user logged in into the account
+2022-12-23 12:07:53,640 - logger_File -INFO - ser clicked on order section
+2022-12-23 12:07:54,350 - logger_File -INFO - user clicked on first order
+2022-12-23 12:07:54,462 - logger_File -INFO - User clicked on Return Items button
+2022-12-23 12:07:54,856 - logger_File -INFO - User selected the Return Reason
+2022-12-23 12:07:54,956 - logger_File -INFO - User selected the drop off service
+2022-12-23 12:07:55,050 - logger_File -INFO - User clicked on Return Order button
+2022-12-23 12:19:01,159 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 12:19:02,021 - logger_File -INFO - User clicked on signIn button
+2022-12-23 12:19:02,333 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 12:19:02,425 - logger_File -INFO - user clicked on login button
+2022-12-23 12:19:05,148 - logger_File -INFO - user logged in into the account
+2022-12-23 12:19:05,348 - logger_File -INFO - ser clicked on order section
+2022-12-23 12:19:07,058 - logger_File -INFO - user clicked on first order
+2022-12-23 12:19:07,181 - logger_File -INFO - User clicked on Return Items button
+2022-12-23 12:19:07,417 - logger_File -INFO - User selected the Return Reason
+2022-12-23 12:19:07,516 - logger_File -INFO - User selected the drop off service
+2022-12-23 12:19:07,600 - logger_File -INFO - User clicked on Return Order button
+2022-12-23 12:19:08,119 - logger_File -INFO - Return was successfullis displayed
+2022-12-23 14:05:21,843 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 14:05:22,502 - logger_File -INFO - User clicked on signIn button
+2022-12-23 14:05:23,321 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 14:05:23,806 - logger_File -INFO - user clicked on login button
+2022-12-23 14:05:24,043 - logger_File -INFO - user logged in into the account
+2022-12-23 14:05:24,225 - logger_File -INFO - ser clicked on order section
+2022-12-23 14:05:24,990 - logger_File -INFO - user clicked on first order
+2022-12-23 14:06:20,553 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 14:06:20,695 - logger_File -INFO - User clicked on signIn button
+2022-12-23 14:06:21,008 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 14:06:21,102 - logger_File -INFO - user clicked on login button
+2022-12-23 14:06:21,650 - logger_File -INFO - user logged in into the account
+2022-12-23 14:06:21,770 - logger_File -INFO - ser clicked on order section
+2022-12-23 14:06:23,278 - logger_File -INFO - user clicked on first order
+2022-12-23 14:06:23,389 - logger_File -INFO - User clicked on Review button
+2022-12-23 14:06:23,937 - logger_File -INFO - headline valueandreview text
+2022-12-23 14:06:24,022 - logger_File -INFO - User clicked Add your Review button
+2022-12-23 14:11:34,686 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 14:11:34,816 - logger_File -INFO - User clicked on signIn button
+2022-12-23 14:11:35,124 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 14:11:35,230 - logger_File -INFO - user clicked on login button
+2022-12-23 14:11:35,662 - logger_File -INFO - user logged in into the account
+2022-12-23 14:11:35,781 - logger_File -INFO - ser clicked on order section
+2022-12-23 14:11:36,208 - logger_File -INFO - user clicked on first order
+2022-12-23 14:11:36,307 - logger_File -INFO - User clicked on Review button
+2022-12-23 14:11:36,637 - logger_File -INFO - headline valueandreview text
+2022-12-23 14:11:36,754 - logger_File -INFO - User clicked Add your Review button
+2022-12-23 14:16:48,242 - logger_File -INFO - React Appis equal toReact App
+2022-12-23 14:16:48,387 - logger_File -INFO - User clicked on signIn button
+2022-12-23 14:16:48,685 - logger_File -INFO - user entered nazeernawabi@yahoo.comand passwordKabul@1234
+2022-12-23 14:16:48,780 - logger_File -INFO - user clicked on login button
+2022-12-23 14:16:49,168 - logger_File -INFO - user logged in into the account
+2022-12-23 14:16:49,294 - logger_File -INFO - ser clicked on order section
+2022-12-23 14:16:50,811 - logger_File -INFO - user clicked on first order
+2022-12-23 14:16:50,920 - logger_File -INFO - User clicked on Review button
+2022-12-23 14:16:51,229 - logger_File -INFO - headline valueandreview text
+2022-12-23 14:16:51,325 - logger_File -INFO - User clicked Add your Review button
+2022-12-23 14:16:52,252 - logger_File -INFO - Your review was added successfullyis displayed

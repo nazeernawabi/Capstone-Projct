@@ -154,7 +154,8 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(id = "addAddressBtn")
 	public WebElement addAddressBtn;
 	
-	
+	@FindBy(id = "orderLink")
+	public WebElement orderSectionBtn;
 	
 	
 	
